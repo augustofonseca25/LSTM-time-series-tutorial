@@ -1,4 +1,4 @@
-# Understanding Household Energy Consumption: A Deep Learning Approach <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hertie_School_of_Governance_logo.svg/1200px-Hertie_School_of_Governance_logo.svg.png" width="150px" align="right" />
+## Understanding Household Energy Consumption: A Deep Learning Approach <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hertie_School_of_Governance_logo.svg/1200px-Hertie_School_of_Governance_logo.svg.png" width="150px" align="right" />
 
 This tutorial will guide you on how to apply sequence modeling techniques to analyze and predict household electric power consumption. ...
 
