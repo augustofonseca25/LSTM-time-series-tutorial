@@ -1,4 +1,4 @@
-# Understanding Household Energy Consumption: A Deep Learning Approach <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hertie_School_of_Governance_logo.svg/1200px-Hertie_School_of_Governance_logo.svg.png" width="200px" align="right" />
+# Understanding Household Energy Consumption: A Deep Learning Approach <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hertie_School_of_Governance_logo.svg/1200px-Hertie_School_of_Governance_logo.svg.png" width="150px" align="right" />
 
 This tutorial provides users with a fundamental understanding for Adversarial Machine Learning (AML), why it is dangerous, and how its risks can be mitigated. It does so by providing both mathematical and theoretical explanations as well as hands-on coding examples. Two attacks and their countermeasures are implemented, namely an evasion attack and a membership inference attack. The user will be introduced not only in the intricacies of these attacks but get an idea of their risks in general. Machine Learning systems applied in all domains can be subject to adversarial attacks, making the topic paramount to practitioners and policy-makers alike.
 
