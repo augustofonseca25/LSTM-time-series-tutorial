@@ -13,5 +13,6 @@ In addition to the tutorial itself, we also provide you with a presentation taki
 *   Alvaro Guijarro May [[Email](mailto:a.guijarro@students.hertie-school.org) | [GitHub]() | [LinkedIn]()]
 *   Augusto Fonseca [[Email](mailto:a.fonseca@students.hertie-school.org) | [GitHub](https://github.com/augustofonseca25) | [LinkedIn](www.linkedin.com/in/augustofonseca-brazil)]
 *   Luke Smith [[Email](mailto:j.halkenhaeusser@students.hertie-school.org) | [GitHub]() | [LinkedIn]()]
+
 #<a href="XXXXXXXXXXXXXX" target="_parent">
 #<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="200px"/></a>
