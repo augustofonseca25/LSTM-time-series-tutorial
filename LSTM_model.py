@@ -14,15 +14,17 @@ import matplotlib.pyplot as plt
 from keras.models import Sequential
 from keras.layers import LSTM, Dense
 
-from google.colab import drive
-drive.mount('/content/drive')
+# from google.colab import drive
+# drive.mount('/content/drive')
 
 # LSTM model
 
 # Based on https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
 
 # Change to your file path
-file_path = '/content/drive/My Drive/Data_Projects/MDS/3rd semester/Deep learning LAB/Assignments/LSTM-time-series-tutorial/data/reframed.csv'
+#file_path = '/content/drive/My Drive/Data_Projects/MDS/3rd semester/Deep learning LAB/Assignments/LSTM-time-series-tutorial/data/reframed.csv'
+
+file_path = 'data/reframed.csv'
 reframed = pd.read_csv(file_path)
 
 len(reframed)
