@@ -11,7 +11,7 @@ We implemented this project in Python using TensorFlow and Keras, presented as a
 
 Here you can find a presentation about the tutorial, a video walking you through the notebook, and a link to directly open the file in Google Colab:
 
-* [Presentation Slides]()
+* [Presentation Slides](https://github.com/augustofonseca25/LSTM-time-series-tutorial/blob/main/presentation/LSTM%20-%20Tutorial.pdf)
 * [Video Guide for Tutorial Notebook]()
 * [Open Tutorial in Google Colab](xxxxxxxxxxxxxxx)
 
