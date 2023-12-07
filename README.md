@@ -5,7 +5,7 @@
 
 This tutorial was created specifically for the Deep Learning course within the Master of Data Science program at the Hertie School in Berlin/Germany.
 
-It will guide you on how to apply sequence modeling techniques to analyze and predict household electric power consumption. We used the "Individual Household Electric Power Consumption" [dataset from the UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption), which includes diverse measures of electricity usage in a household over four years. It focus on employing Recurrent Neural Networks (RNNs), particularly Long Short-Term Memory (LSTM) networks, to understand patterns in energy usage and forecast future consumption. 
+It will guide you on how to apply sequence modeling techniques to analyze and predict household electric power consumption. We used the "Individual Household Electric Power Consumption" [dataset from the UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption), which includes diverse measures of electricity usage in a household over four years. It focuses on employing Recurrent Neural Networks (RNNs), particularly Long Short-Term Memory (LSTM) networks, to understand patterns in energy usage and forecast future consumption. 
 
 We implemented this project in Python using TensorFlow and Keras, presented as an interactive Jupyter Notebook.
 
